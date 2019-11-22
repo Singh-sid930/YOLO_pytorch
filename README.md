@@ -10,9 +10,13 @@ The scripts folder contains two files:
 Example outputs : 
 
 ![](yolo1.png)
-After performing non max suppresion on outputs : 
+
+After performing non max suppresion on outputs and assigning classes to traffic lights, persons and vehicles: 
+
 ![](yolo1.png)
 
 ![](im2_1(1).png)
-After performing non max suppresion on outputs : 
+
+After performing non max suppresion on outputs and assigning classes to traffic lights, persons and vehicles: 
+
 ![](im2_3(1).png)
